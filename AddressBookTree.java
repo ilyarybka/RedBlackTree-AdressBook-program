@@ -1,9 +1,3 @@
-/*Iliya Klishin
- *Dr. Steinberg
- *COP 3503 Summer 2022
- *Programming Assignment 2
- */
- 
  class Node<T,U>
  {
   private T name;
